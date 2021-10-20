@@ -1,0 +1,82 @@
+[
+  {
+    "key": 1,
+    "name": "Cardiology ",
+    "description": "Cardiac department includes experts trained in all types of heart diseases. ",
+    "image": " https://media.istockphoto.com/photos/doctor-using-stethoscope-listening-to-senior-patients-breathing-picture-id1283838801?b=1&k=20&m=1283838801&s=170667a&w=0&h=KRMqXaey-EE2yx1pJBj3YenMRwGNWegHFNKtkqBwGVc=",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$20"
+  },
+  {
+    "key": 2,
+    "name": "Neurology ",
+    "description": "Our neurologists provide expert, whole-person care for adults and children. ",
+    "image": "https://media.istockphoto.com/photos/doctor-pointing-at-mri-of-human-brain-picture-id967827592?b=1&k=20&m=967827592&s=170667a&w=0&h=CjopWEUMNyp5LTTcdlf8zw1dcQsrzMy9RESmURdIcaA= ",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$50"
+  },
+  {
+    "key": 3,
+    "name": "Kidney ",
+    "description": "We provide comprehensive, multidisciplinary medical and surgical care. ",
+    "image": "https://media.istockphoto.com/photos/young-africanamerican-man-complained-of-kidney-pain-picture-id1304618106?b=1&k=20&m=1304618106&s=170667a&w=0&h=yiZ_LitnDZ9XH7PnuoH6qwXe_455UUkrARKnY2YZejM= ",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$35"
+  },
+  {
+    "key": 4,
+    "name": "Stomach ",
+    "description": "Doctors specialize in preventing, diagnosing and treating digestive tract disorders. ",
+    "image": " https://media.istockphoto.com/photos/abdominal-pain-patient-woman-having-medical-exam-with-doctor-on-from-picture-id1248393962?b=1&k=20&m=1248393962&s=170667a&w=0&h=HvE9nPzPymxWAM3mDeUcxbRk1aHk5GpPWsFqyoPxVZo=",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$45"
+  },
+  {
+    "key": 5,
+    "name": "Dental ",
+    "description": "Licensed specialists routinely provide care for patients with various needs. ",
+    "image": " https://media.istockphoto.com/photos/little-girl-at-the-dentists-office-picture-id1280255955?b=1&k=20&m=1280255955&s=170667a&w=0&h=JIewv0pIKRxxTQguZiab5eR7igPKMtuuf7YQsIKh-Us=",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$25"
+  },
+  {
+    "key": 6,
+    "name": "Palmonary & Sleep ",
+    "description": "We solve medical challenges faced by people with conditions that affect the lungs. ",
+    "image": " https://media.istockphoto.com/photos/doctors-looking-at-lungs-xray-picture-id1223774237?b=1&k=20&m=1223774237&s=170667a&w=0&h=gVZz2ZuIbpTJ63IpWRzWXg_3-5DzqM5gGr4CWA6UnuQ=",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$20"
+  },
+  {
+    "key": 7,
+    "name": "Hormone ",
+    "description": "Doctors specialize in hormone and hormonal realted problems. ",
+    "image": "https://media.istockphoto.com/photos/neurons-cells-concept-picture-id1053434168?b=1&k=20&m=1053434168&s=170667a&w=0&h=nfNNAaadvY4NO8pcWjNLFwSlAwuIEDM1vx7aoJtPh4I= ",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$55"
+  },
+  {
+    "key": 8,
+    "name": "Thyroid ",
+    "description": "All type of thyroid condition handled by this team of the expert docctors. ",
+    "image": "https://media.istockphoto.com/photos/thyroid-cancer-checkup-picture-id618440436?b=1&k=20&m=618440436&s=170667a&w=0&h=6T2tqZl0X2vYVa-28zSWHWYpNlLwEQtxkFwFwSlkfEU= ",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$35"
+  },
+  {
+    "key": 9,
+    "name": "Tumor ",
+    "description": "This specific team works for the treatment and the cure for the tumor related disease ",
+    "image": " https://media.istockphoto.com/photos/doctors-are-working-with-ct-scan-in-hospital-picture-id1124543330?b=1&k=20&m=1124543330&s=170667a&w=0&h=e_9weh6aa_q911_BJDbsamcnj-F4otmQLQjVMlWenqE=",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$45"
+  },
+  {
+    "key": 10,
+    "name": "Diabetes ",
+    "description": "The expert team of the doctors who are specialized in hormones as well as best with handling the diabetes cases ",
+    "image": "https://media.istockphoto.com/photos/world-diabetes-day-healthcare-and-medical-concept-healthy-food-fresh-picture-id1279707247?b=1&k=20&m=1279707247&s=170667a&w=0&h=OyaID697FUaQ5_wcs5HIqtbKpKcp1zpYGBF3m3Uz0dQ= ",
+    "visitingHour": "04:00PM- 07:00PM, Everyday",
+    "visitingRate": "$55"
+  }
+]
